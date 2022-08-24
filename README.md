@@ -25,4 +25,5 @@ python3 -m pytest
 * clone the repository for your specific project `git clone <url> <your project name>`
 * rename the toplevel namespace and package directories
 * update setup.cfg to reflect project naming as appropriate
+* update logging.yml to utilize the project's namespace/packaging as appropriate
 * review [setup.cfg]([PEP 517 metadata build](https://setuptools.pypa.io/en/latest/userguide/declarative_config.html)) for additional settings
