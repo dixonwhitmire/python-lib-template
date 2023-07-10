@@ -1,6 +1,6 @@
 # python-lib-template
 
-A template project for Python >= 3.9 library projects which includes:
+A template project for Python 3.11 library projects which includes:
 
 - [pytest](https://docs.pytest.org/)
 - [black](https://pypi.org/project/black/)
