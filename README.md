@@ -2,7 +2,7 @@
 
 A template project for Python >= 3.9 library projects which includes:
 
-- [pytest](https://docs.pytest.org/en/7.1.x/)
+- [pytest](https://docs.pytest.org/)
 - [black](https://pypi.org/project/black/)
 - [isort](https://pypi.org/project/isort/)
 - [PEP 517 metadata build](https://setuptools.pypa.io/en/latest/userguide/declarative_config.html)
